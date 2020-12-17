@@ -1,12 +1,12 @@
 # E-learning Website
 * A full-stack E-learning website where the teacher can upload lesson videos which will be stored in the database and can be viewed by the students.
 ## Description :
-Application has two roles :<br><br>
+Application has two roles :<br>
 ### Teacher :
 * Can add lessons having video lessons with lesson name which will be stored in database.
 ### Student : 
 * Can view all lessons uploaded by teacher.
-######
+###
 * Authentication and Authorization is handled using session management.
 * Both students and teachers  should be logged in to carry out their operations.
 * Student cant enter teachers space and Teacher cant enter students space.
