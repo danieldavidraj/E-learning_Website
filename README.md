@@ -4,6 +4,6 @@ A full-stack E-learning website where the teacher can upload lesson videos which
 ![student](/images/student.png)
 ![student1](/images/student (1).png)
 ![teacher](/images/teacher.png)
-![teacher1](/images/teacher (1).png)
+![teacher1](/images/profile (1).png)
 ![accounts](/images/accounts.png)
 ![videos](/images/videos.png)
